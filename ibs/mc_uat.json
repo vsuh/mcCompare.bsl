@@ -1,0 +1,6 @@
+{
+    "description":"УАТ рабочая",
+    "connString": "Srvr=obr-app-11;Ref=mc_uat;",
+    "suuser": "master",
+    "passwd": "env:C1.password"
+}
