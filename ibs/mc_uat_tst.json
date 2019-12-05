@@ -1,6 +1,0 @@
-{
-    "description":"УАТ тестовая копия",
-    "connString": "Srvr=obr-app-13;Ref=mc_uat_tst;",
-    "suuser": "master",
-    "passwd": "env:C1.password"
-}

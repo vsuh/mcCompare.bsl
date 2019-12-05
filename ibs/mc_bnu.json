@@ -1,6 +1,0 @@
-{
-    "description":"КИСУ рабочая",
-    "connString": "Srvr=obr-app-11;Ref=mc_bnu;",
-    "suuser": "master",
-    "passwd": "env:C1.password"
-}

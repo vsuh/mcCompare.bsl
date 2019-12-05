@@ -1,6 +1,0 @@
-{
-    "description":"Хранилище КИСУ",
-    "connString": "File=D:\\bases\\STORAGE\\strgeKUCY;",
-    "suuser": "master",
-    "passwd": "env:C1.password"
-}

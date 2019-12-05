@@ -2,3 +2,4 @@ left/
 right/
 *.log
 *.lst
+ibs/*.json
