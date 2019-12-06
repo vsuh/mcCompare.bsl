@@ -1,6 +1,6 @@
 {
     "path1C":"D:\\myProgramFiles\\1cv8\\8.3.12.1616\\bin\\1cv8.exe ",
-    "leftIB" : "mc_uat",
-    "rightIB": "mc_uat_tst",
+    "leftIB" : "KUCYxp",
+    "rightIB": "mc_bnu_oru",
     "diffTool": "D:\\myProgramFiles\\WinMerge\\WinMergeU.exe /u /wl /wr /dl {LEFT} /dr {RIGHT} left right"
 }
