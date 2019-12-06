@@ -52,3 +52,6 @@ E:\1S\proj\mdComparation>oscript compare.bsl Документ.ахСписани
  [json](http://hub.oscript.io/package/json),
  [logos](http://hub.oscript.io/package/logos),
  [v8runner](http://hub.oscript.io/package/v8runner)
+ 
+ todo: опционально включать фильтр файлов при запуске WinMerge: *.bsl *.xml
+ 
