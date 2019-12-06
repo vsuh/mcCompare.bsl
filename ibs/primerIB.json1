@@ -1,0 +1,6 @@
+{
+    "description":"УАТ рабочая",
+    "connString": "Srvr=Server1C;Ref=rarus_uat2.01;",
+    "suuser": "admin",
+    "passwd": "env:C1.admin-password"
+}
