@@ -1,6 +1,6 @@
 ### Сравнение двух версий объекта метаданных
 
-Попеременно выргужает указанный объект метаданных в файлы и запускает средство сравнения для полученных данных [WinMergeU](https://winmerge.org/downloads/?lang=ru)  
+Скрипт на [OneScript](http://oscript.io/downloads). Попеременно выргужает указанный объект метаданных в файлы и запускает средство сравнения для полученных данных [WinMergeU](https://winmerge.org/downloads/?lang=ru)  
 В качестве параметра нужно указать имя метаданного для выгрузки. Например: `Документ.уатПутевойЛист`  
 
 В скрипте захардкожены следующие имена:
@@ -41,3 +41,8 @@ E:\1S\proj\mdComparation>oscript compare.bsl Документ.уатПутево
 ИНФОРМАЦИЯ - Выполняется выгрузка в файлы из right ИБSrvr=obr-app-13;Ref=mc_uat_tst;
 ИНФОРМАЦИЯ - Запускается средство сравнения - WinMergeU
 ```
+
+Использованы плагины [onescript](http://oscript.io/downloads): 
+ [json](http://hub.oscript.io/package/json),
+ [logos](http://hub.oscript.io/package/logos),
+ [v8runner](http://hub.oscript.io/package/v8runner)
