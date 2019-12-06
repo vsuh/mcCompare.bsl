@@ -44,7 +44,7 @@ E:\1S\proj\mdComparation>oscript compare.bsl Документ.уатПутево
 ИНФОРМАЦИЯ - Выполняется выгрузка в файлы из right ИБSrvr=obr-app-13;Ref=mc_uat_tst;
 ИНФОРМАЦИЯ - Запускается средство сравнения - WinMergeU
 ```
-!(wm.png)[images/wm.png]
+![wm.png](/images/wm.png)
 
 Использованы плагины [onescript](http://oscript.io/downloads): 
  [json](http://hub.oscript.io/package/json),
